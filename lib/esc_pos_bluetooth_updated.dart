@@ -5,7 +5,7 @@
  * Copyright (c) 2020. All rights reserved.
  * See LICENSE for distribution and usage details.
  */
-library esc_pos_bluetooth;
+library esc_pos_bluetooth_updated;
 
 export './src/enums.dart';
 export './src/printer_bluetooth_manager.dart';

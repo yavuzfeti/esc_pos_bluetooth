@@ -1,3 +1,8 @@
+## [0.5.0]
+
+- Update dependencies
+- Upgrade to android 33+
+
 ## [0.4.1]
 
 - Bump flutter_bluetooth_basic to ^0.1.7
